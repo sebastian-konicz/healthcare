@@ -1,0 +1,65 @@
+{
+    "adres": {
+        "kod": "20-030",
+        "miejscowosc": "Lublin",
+        "nr_domu": "13",
+        "nr_mieszkania": "5",
+        "panstwo": "Polska",
+        "poczta": "Lublin",
+        "teryt": {
+            "gmina": "066301",
+            "powiat": "0663",
+            "wojewodztwo": "06"
+        },
+        "ulica": "Obrońców Pokoju"
+    },
+    "glowna_osoba": {
+        "id": "1961818",
+        "imiona_i_nazwisko": "Jarosław Ołtarzewski"
+    },
+    "id": 1001014,
+    "krs_powiazania_liczby": {
+        "aktualne": 4,
+        "przeszle": 2
+    },
+    "krs_rejestry": {
+        "rejestr_przedsiebiorcow_data_wpisu": "2022-11-08"
+    },
+    "krs_wpisy": {
+        "najnowszy_data": "2024-08-06",
+        "najnowszy_numer": 7,
+        "pierwszy_data": "2022-11-08"
+    },
+    "metadane": {
+        "krs_odpis_synchronizacja_data_czas": "2024-11-04 22:12:34",
+        "krs_rozdzialy_dostepne": [
+            "ogolny",
+            "przeksztalcenia",
+            "wzmianki"
+        ]
+    },
+    "nazwy": {
+        "pelna": "MEDTEM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "skrocona": "MEDTEM"
+    },
+    "numery": {
+        "krs": "0001001014",
+        "nip": "1231521656",
+        "regon": "523624282"
+    },
+    "stan": {
+        "czy_dofinansowana_przez_ue": false,
+        "czy_jest_na_gpw": false,
+        "czy_otrzymala_pomoc_publiczna": true,
+        "czy_pozytku_publicznego": false,
+        "czy_spolka_skarbu_panstwa": false,
+        "czy_wykreslona": false,
+        "forma_prawna": "SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "pkd_przewazajace_dzial": "Opieka zdrowotna",
+        "w_likwidacji": false,
+        "w_upadlosci": false,
+        "w_zawieszeniu": false,
+        "wielkosc": "mikro"
+    },
+    "typ": "organizacja"
+}
